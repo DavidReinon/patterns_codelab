@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import './1_patterns_codelab/data.dart';
+import '../1_patterns_codelab/data.dart'; //Si da error, probar con un punto: './1_patterns_codelab/data.dart'
 
 void main() {
   runApp(const DocumentApp());
